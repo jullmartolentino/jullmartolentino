@@ -56,7 +56,7 @@ Visibility into real-time performance was poor.
 ---
 
 ### 📸 Preview  
-![Dashboard Screenshot](Dashboard_Screenshot.jpg)
+[![Dashboard Screenshot](./Dashboard_Screenshot.jpg)](./Dashboard_Screenshot.jpg)
 
 *(All data shown is mock/sample data for demonstration purposes.)*
 
