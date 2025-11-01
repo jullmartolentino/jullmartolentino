@@ -1,7 +1,7 @@
 # Hi, I'm Jullmar 👋  
 **Operations Analyst | Excel & Automation Enthusiast**
 
-📧 j.tolentino2k20@gmail.com  
+📧 [j.tolentino2k20@gmail.com](mailto:j.tolentino2k20@gmail.com)
 📱 +63 976 375 6724  
 🔗 [LinkedIn](https://www.linkedin.com/in/jullmar-tolentino/)
 
